@@ -146,6 +146,6 @@ Failover tested:
 
 ## 👤 Author
 
-**Moses Daniel** — Cloud Security & DevSecOps Engineer
+**Moses Gnamisan Daniel** — Cloud Security & DevSecOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/moses-daniel-a8a80861/)
